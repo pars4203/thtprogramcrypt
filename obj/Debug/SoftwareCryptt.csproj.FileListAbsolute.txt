@@ -1,0 +1,9 @@
+c:\users\yavuz\documents\visual studio 2013\Projects\SoftwareCryptt\SoftwareCryptt\bin\Debug\SoftwareCryptt.exe.config
+c:\users\yavuz\documents\visual studio 2013\Projects\SoftwareCryptt\SoftwareCryptt\obj\Debug\SoftwareCryptt.Form1.resources
+c:\users\yavuz\documents\visual studio 2013\Projects\SoftwareCryptt\SoftwareCryptt\obj\Debug\SoftwareCryptt.Properties.Resources.resources
+c:\users\yavuz\documents\visual studio 2013\Projects\SoftwareCryptt\SoftwareCryptt\obj\Debug\SoftwareCryptt.csproj.GenerateResource.Cache
+c:\users\yavuz\documents\visual studio 2013\Projects\SoftwareCryptt\SoftwareCryptt\bin\Debug\SoftwareCryptt.exe
+c:\users\yavuz\documents\visual studio 2013\Projects\SoftwareCryptt\SoftwareCryptt\bin\Debug\SoftwareCryptt.pdb
+c:\users\yavuz\documents\visual studio 2013\Projects\SoftwareCryptt\SoftwareCryptt\obj\Debug\SoftwareCryptt.exe
+c:\users\yavuz\documents\visual studio 2013\Projects\SoftwareCryptt\SoftwareCryptt\obj\Debug\SoftwareCryptt.pdb
+C:\Users\Yavuz\documents\visual studio 2013\Projects\SoftwareCryptt\SoftwareCryptt\obj\Debug\SoftwareCryptt.csprojResolveAssemblyReference.cache
